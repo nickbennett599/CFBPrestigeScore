@@ -1,0 +1,779 @@
+﻿School,Year,SchoolTeam,Conference,HeadCoach,Pay
+Clemson,2019,Clemson2019,ACC,Dabo Swinney,9315600
+Alabama,2019,Alabama2019,SEC,Nick Saban,8857000
+Michigan,2019,Michigan2019,Big Ten,Jim Harbaugh,7504000
+Texas A&M,2019,Texas A&M2019,SEC,Jimbo Fisher,7500000
+Georgia,2019,Georgia2019,SEC,Kirby Smart,6871600
+Auburn,2019,Auburn2019,SEC,Gus Malzahn,6827589
+Texas,2019,Texas2019,Big 12,Tom Herman,6750000
+Purdue,2019,Purdue2019,Big Ten,Jeff Brohm,6600000
+Oklahoma,2019,Oklahoma2019,Big 12,Lincoln Riley,6384462
+Florida,2019,Florida2019,SEC,Dan Mullen,6070000
+Penn State,2019,Penn State2019,Big Ten,James Franklin,5650000
+Northwestern,2019,Northwestern2019,Big Ten,Pat Fitzgerald,5144937
+Oklahoma State,2019,Oklahoma State2019,Big 12,Mike Gundy,5125000
+Nebraska,2019,Nebraska2019,Big Ten,Scott Frost,5000000
+Florida State,2019,Florida State2019,ACC,Willie Taggart,5000000
+South Florida,2019,South Florida2019,American,Charlie Strong,5000000
+TCU,2019,TCU2019,Big 12,Gary Patterson,4900776
+Iowa,2019,Iowa2019,Big Ten,Kirk Ferentz,4800000
+Kentucky,2019,Kentucky2019,SEC,Mark Stoops,4763600
+Washington,2019,Washington2019,Pac-12,Chris Petersen,4625000
+Stanford,2019,Stanford2019,Pac-12,David Shaw,4613707
+Ohio State,2019,Ohio State2019,Big Ten,Ryan Day,4500000
+South Carolina,2019,South Carolina2019,SEC,Will Muschamp,4400000
+Michigan State,2019,Michigan State2019,Big Ten,Mark Dantonio,4399437
+Wisconsin,2019,Wisconsin2019,Big Ten,Paul Chryst,4150000
+Baylor,2019,Baylor2019,Big 12,Matt Rhule,4113734
+Utah,2019,Utah2019,Pac-12,Kyle Whittingham,4002917
+Arkansas,2019,Arkansas2019,SEC,Chad Morris,4000000
+Illinois,2019,Illinois2019,Big Ten,Lovie Smith,4000000
+LSU,2019,LSU2019,SEC,Ed Orgeron,4000000
+Virginia Tech,2019,Virginia Tech2019,ACC,Justin Fuente,4000000
+Tennessee,2019,Tennessee2019,SEC,Jeremy Pruitt,3846000
+Washington State,2019,Washington State2019,Pac-12,Mike Leach,3750000
+Virginia,2019,Virginia2019,ACC,Bronco Mendenhall,3700000
+Houston,2019,Houston2019,American,Dana Holgorsen,3700000
+Iowa State,2019,Iowa State2019,Big 12,Matt Campbell,3600000
+Minnesota,2019,Minnesota2019,Big Ten,P.J. Fleck,3600000
+UCLA,2019,UCLA2019,Pac-12,Chip Kelly,3500000
+North Carolina,2019,North Carolina2019,ACC,Mack Brown,3500000
+Vanderbilt,2019,Vanderbilt2019,SEC,Derek Mason,3368244
+Louisville,2019,Louisville2019,ACC,Scott Satterfield,3250000
+NC State,2019,NC State2019,ACC,Dave Doeren,3250000
+USC,2019,USC2019,Pac-12,Clay Helton,3218935
+Pittsburgh,2019,Pittsburgh2019,ACC,Pat Narduzzi,3213953
+Ole Miss,2019,Ole Miss2019,SEC,Matt Luke,3100000
+West Virginia,2019,West Virginia2019,Big 12,Neal Brown,3055000
+Missouri,2019,Missouri2019,SEC,Barry Odom,3050000
+Mississippi State,2019,Mississippi State2019,SEC,Joe Moorhead,3050000
+Georgia Tech,2019,Georgia Tech2019,ACC,Geoff Collins,3000000
+California,2019,California2019,Pac-12,Justin Wilcox,2854000
+Texas Tech,2019,Texas Tech2019,Big 12,Matt Wells,2808300
+Kansas,2019,Kansas2019,Big 12,Les Miles,2775000
+Duke,2019,Duke2019,ACC,David Cutcliffe,2669345
+Memphis,2019,Memphis2019,American,Mike Norvell,2660000
+Boston College,2019,Boston College2019,ACC,Steve Addazio,2643012
+Oregon,2019,Oregon2019,Pac-12,Mario Cristobal,2600000
+Maryland,2019,Maryland2019,Big Ten,Mike Locksley,2500000
+Colorado,2019,Colorado2019,Pac-12,Mel Tucker,2400000
+Arizona State,2019,Arizona State2019,Pac-12,Herm Edwards,2380000
+Navy,2019,Navy2019,American,Ken Niumatalolo,2316000
+Rutgers,2019,Rutgers2019,Big Ten,Chris Ash,2300000
+Kansas State,2019,Kansas State2019,Big 12,Chris Klieman,2300000
+Cincinnati,2019,Cincinnati2019,American,Luke Fickell,2300000
+UCF,2019,UCF2019,American,Josh Heupel,2300000
+Syracuse,2019,Syracuse2019,ACC,Dino Babers,2268825
+Wake Forest,2019,Wake Forest2019,ACC,Dave Clawson,2189063
+Wyoming,2019,Wyoming2019,Mountain West,Craig Bohl,2137000
+Arizona,2019,Arizona2019,Pac-12,Kevin Sumlin,2000000
+Oregon State,2019,Oregon State2019,Pac-12,Jonathan Smith,1900008
+North Texas,2019,North Texas2019,C-USA,Seth Littrell,1865500
+Indiana,2019,Indiana2019,Big Ten,Tom Allen,1805000
+Colorado State,2019,Colorado State2019,Mountain West,Mike Bobo,1800000
+Boise State,2019,Boise State2019,Mountain West,Bryan Harsin,1750000
+Tulsa,2019,Tulsa2019,American,Philip Montgomery,1689395
+Notre Dame,2019,Notre Dame2019,Independent,Brian Kelly,1665020
+Fresno State,2019,Fresno State2019,Mountain West,Jeff Tedford,1615420
+Tulane,2019,Tulane2019,American,Willie Fritz,1612000
+UConn,2019,UConn2019,American,Randy Edsall,1606000
+UAB,2019,UAB2019,C-USA,Bill Clark,1450000
+Florida Atlantic,2019,Florida Atlantic2019,C-USA,Lane Kiffin,1432000
+East Carolina,2019,East Carolina2019,American,Mike Houston,1425000
+Toledo,2019,Toledo2019,MAC,Jason Candle,1150000
+UTSA,2019,UTSA2019,C-USA,Frank Wilson,1125000
+FIU,2019,FIU2019,C-USA,Butch Davis,992250
+Middle Tennessee,2019,Middle Tennessee2019,C-USA,Rick Stockstill,913504
+Utah State,2019,Utah State2019,Mountain West,Gary Andersen,900000
+San Diego State,2019,San Diego State2019,Mountain West,Rocky Long,879228
+Louisiana,2019,Louisiana2019,Sun Belt,Billy Napier,875000
+Arkansas State,2019,Arkansas State2019,Sun Belt,Blake Anderson,825182
+New Mexico,2019,New Mexico2019,Mountain West,Bob Davie,823740
+Western Kentucky,2019,Western Kentucky2019,C-USA,Tyson Helton,800000
+Texas State,2019,Texas State2019,Sun Belt,Jake Spavital,800000
+Western Michigan,2019,Western Michigan2019,MAC,Tim Lester,800000
+Marshall,2019,Marshall2019,C-USA,Doc Holliday,787820
+Appalachian State,2019,Appalachian State2019,Sun Belt,Eliah Drinkwitz,750000
+UTEP,2019,UTEP2019,C-USA,Dana Dimel,711999
+Louisiana Tech,2019,Louisiana Tech2019,C-USA,Skip Holtz,704000
+Charlotte,2019,Charlotte2019,C-USA,Will Healy,700000
+Georgia Southern,2019,Georgia Southern2019,Sun Belt,Chad Lunsford,680000
+Old Dominion,2019,Old Dominion2019,C-USA,Bobby Wilder,661851
+Ohio,2019,Ohio2019,MAC,Frank Solich,654928
+Central Michigan,2019,Central Michigan2019,MAC,Jim McElwain,640900
+UMass,2019,UMass2019,Independent,Walt Bell,635000
+South Alabama,2019,South Alabama2019,Sun Belt,Steve Campbell,619000
+Buffalo,2019,Buffalo2019,MAC,Lance Leipold,615000
+Northern Illinois,2019,Northern Illinois2019,MAC,Thomas Hammock,610000
+UNLV,2019,UNLV2019,Mountain West,Tony Sanchez,602000
+Hawaii,2019,Hawaii2019,Mountain West,Nick Rolovich,600004
+Troy,2019,Troy2019,Sun Belt,Chip Lindsey,600000
+San Jose State,2019,San Jose State2019,Mountain West,Brent Brennan,599184
+Georgia State,2019,Georgia State2019,Sun Belt,Shawn Elliott,594000
+Miami (OH),2019,Miami (OH)2019,MAC,Chuck Martin,533360
+Bowling Green,2019,Bowling Green2019,MAC,Scot Loeffler,530000
+Nevada,2019,Nevada2019,Mountain West,Jay Norvell,500000
+Akron,2019,Akron2019,MAC,Tom Arth,500000
+Southern Mississippi,2019,Southern Mississippi2019,C-USA,Jay Hopson,500000
+Eastern Michigan,2019,Eastern Michigan2019,MAC,Chris Creighton,470000
+Ball State,2019,Ball State2019,MAC,Mike Neu,444403
+Kent State,2019,Kent State2019,MAC,Sean Lewis,440000
+New Mexico State,2019,New Mexico State2019,Independent,Doug Martin,422000
+Louisiana-Monroe,2019,Louisiana-Monroe2019,Sun Belt,Matt Viator,390000
+Coastal Carolina,2019,Coastal Carolina2019,Sun Belt,Jamey Chadwell,360000
+Rice,2019,Rice2019,C-USA,Mike Bloomgren,1000000
+Temple,2019,Temple2019,American,Rod Carey,2000000
+Miami (FL),2019,Miami (FL)2019,ACC,Manny Diaz,3100000
+Army,2019,Army2019,Independent,Jeff Monken,932521
+Liberty,2019,Liberty2019,Independent,Hugh Freeze,1500000
+Brigham Young,2019,Brigham Young2019,Independent,Kalani Sitake,1500000
+Air Force,2019,Air Force2019,Mountain West,Troy Calhoun,885000
+SMU,2019,SMU2019,American,Sonny Dykes,2000000
+Alabama,2018,Alabama2018,SEC,Nick Saban,8307000
+Michigan,2018,Michigan2018,Big Ten,Jim Harbaugh,7504000
+Ohio State,2018,Ohio State2018,Big Ten,Urban Meye,7600000
+Georgia,2018,Georgia2018,SEC,Kirby Smart,6603000
+Notre Dame,2018,Notre Dame2018,Independent,Brian Kelly,2100000
+Oklahoma,2018,Oklahoma2018,Big 12,Lincoln Riley,4800000
+LSU,2018,LSU2018,SEC,Ed Orgeron,3500000
+Texas,2018,Texas2018,Big 12,Tom Herman,5500000
+Penn State,2018,Penn State2018,Big Ten,James Franklin,4800000
+Tennessee,2018,Tennessee2018,SEC,Jeremy Pruitt,3846000
+Clemson,2018,Clemson2018,ACC,Dabo Swinney,6400000
+Auburn,2018,Auburn2018,SEC,Gus Malzahn,6700000
+Florida,2018,Florida2018,SEC,Dan Mullen,6070000
+Michigan State,2018,Michigan State2018,Big Ten,Mark Dantonio,4390417
+USC,2018,USC2018,Pac-12,Clay Helton,2600000
+Iowa,2018,Iowa2018,Big Ten,Kirk Ferentz,4700000
+Nebraska,2018,Nebraska2018,Big Ten,Scott Frost,5000000
+Texas A&M,2018,Texas A&M2018,SEC,Jimbo Fisher,7500000
+Florida State,2018,Florida State2018,ACC,Willie Taggart,5000000
+Wisconsin,2018,Wisconsin2018,Big Ten,Paul Chryst,3750000
+Washington,2018,Washington2018,Pac-12,Chris Petersen,4300000
+Minnesota,2018,Minnesota2018,Big Ten,P.J. Fleck,3550000
+Oklahoma State,2018,Oklahoma State2018,Big 12,Mike Gundy,5000000
+Oregon,2018,Oregon2018,Pac-12,Mario Cristobal,2500000
+Arkansas,2018,Arkansas2018,SEC,Chad Morris,3500000
+TCU,2018,TCU2018,Big 12,Gary Patterson,4800000
+Stanford,2018,Stanford2018,Pac-12,David Shaw,4300000
+Miami (FL),2018,Miami (FL)2018,ACC,Mark Richt,4000000
+South Carolina,2018,South Carolina2018,SEC,Will Muschamp,4200000
+Baylor,2018,Baylor2018,Big 12,Matt Rhule,4000000
+Texas Tech,2018,Texas Tech2018,Big 12,Kliff Kingsbury,3700000
+Virginia Tech,2018,Virginia Tech2018,ACC,Justin Fuente,4000000
+Ole Miss,2018,Ole Miss2018,SEC,Matt Luke,3000000
+Kansas State,2018,Kansas State2018,Big 12,Bill Snyder,3500000
+Pittsburgh,2018,Pittsburgh2018,ACC,Pat Narduzzi,3000000
+Mississippi State,2018,Mississippi State2018,SEC,Joe Moorhead,2600000
+Northwestern,2018,Northwestern2018,Big Ten,Pat Fitzgerald,3619775
+Illinois,2018,Illinois2018,Big Ten,Lovie Smith,5000000
+West Virginia,2018,West Virginia2018,Big 12,Dana Holgorsen,3600000
+Utah,2018,Utah2018,Pac-12,Kyle Whittingham,3700000
+UCLA,2018,UCLA2018,Pac-12,Chip Kelly,3300000
+Indiana,2018,Indiana2018,Big Ten,Tom Allen,1830000
+Iowa State,2018,Iowa State2018,Big 12,Matt Campbell,3500000
+California,2018,California2018,Pac-12,Justin Wilcox,1500000
+Kentucky,2018,Kentucky2018,SEC,Mark Stoops,4000000
+Louisville,2018,Louisville2018,ACC,Bobby Petrino,3900000
+Missouri,2018,Missouri2018,SEC,Barry Odom,2350000
+Georgia Tech,2018,Georgia Tech2018,ACC,Paul Johnson,3500000
+Arizona State,2018,Arizona State2018,Pac-12,Herm Edwards,2000000
+NC State,2018,NC State2018,ACC,Dave Doeren,3000000
+North Carolina,2018,North Carolina2018,ACC,Larry Fedora,2500000
+Arizona,2018,Arizona2018,Pac-12,Kevin Sumlin,2000000
+Purdue,2018,Purdue2018,Big Ten,Jeff Brohm,3800000
+Duke,2018,Duke2018,ACC,David Cutcliffe,2500000
+Vanderbilt,2018,Vanderbilt2018,SEC,Derek Mason,2812000
+Washington State,2018,Washington State2018,Pac-12,Mike Leach,3500000
+Syracuse,2018,Syracuse2018,ACC,Dino Babers,2400000
+Colorado,2018,Colorado2018,Pac-12,Mike MacIntyre,2800000
+Kansas,2018,Kansas2018,Big 12,David Beaty,1700000
+Boise State,2018,Boise State2018,Mountain West,Bryan Harsin,1650000
+Boston College,2018,Boston College2018,ACC,Steve Addazio,2500000
+Virginia,2018,Virginia2018,ACC,Bronco Mendenhall,3500000
+Maryland,2018,Maryland2018,Big Ten,DJ Durkin,2512000
+UCF,2018,UCF2018,American,Josh Heupel,1700000
+Brigham Young,2018,Brigham Young2018,Independent,Kalani Sitake,1500000
+Wake Forest,2018,Wake Forest2018,ACC,Dave Clawson,1800000
+Oregon State,2018,Oregon State2018,Pac-12,Jonathan Smith,1900000
+Memphis,2018,Memphis2018,American,Mike Norvell,2600000
+Houston,2018,Houston2018,American,Major Applewhite,1750000
+Cincinnati,2018,Cincinnati2018,American,Luke Fickell,2000000
+Rutgers,2018,Rutgers2018,Big Ten,Chris Ash,2200000
+Temple,2018,Temple2018,American,Geoff Collins,2000000
+South Florida,2018,South Florida2018,American,Charlie Strong,1000000
+SMU,2018,SMU2018,American,Sonny Dykes,2000000
+San Diego State,2018,San Diego State2018,Mountain West,Rocky Long,873576
+Toledo,2018,Toledo2018,MAC,Jason Candle,1125000
+Northern Illinois,2018,Northern Illinois2018,MAC,Rod Carey,633460
+Ohio,2018,Ohio2018,MAC,Frank Solich,580331
+Tulsa,2018,Tulsa2018,American,Philip Montgomery,1518177
+Navy,2018,Navy2018,American,Ken Niumatalolo,2163000
+UConn,2018,UConn2018,American,Randy Edsall,1100000
+Fresno State,2018,Fresno State2018,Mountain West,Jeff Tedford,1550000
+Utah State,2018,Utah State2018,Mountain West,Matt Wells,900000
+Western Michigan,2018,Western Michigan2018,MAC,Tim Lester,800000
+Marshall,2018,Marshall2018,C-USA,Doc Holliday,762570
+Colorado State,2018,Colorado State2018,Mountain West,Mike Bobo,1800000
+East Carolina,2018,East Carolina2018,American,Scottie Montgomery,1102500
+Western Kentucky,2018,Western Kentucky2018,C-USA,Mike Sanford,805850
+Arkansas State,2018,Arkansas State2018,Sun Belt,Blake Anderson,750000
+Wyoming,2018,Wyoming2018,Mountain West,Craig Bohl,1410000
+Louisiana Tech,2018,Louisiana Tech2018,C-USA,Skip Holtz,700000
+Louisiana,2018,Louisiana2018,Sun Belt,Billy Napier,850000
+Appalachian State,2018,Appalachian State2018,Sun Belt,Scott Satterfield,712500
+Air Force,2018,Air Force2018,Mountain West,Troy Calhoun,950000
+Middle Tennessee,2018,Middle Tennessee2018,C-USA,Rick Stockstill,803004
+Nevada,2018,Nevada2018,Mountain West,Jay Norvell,500000
+Southern Mississippi,2018,Southern Mississippi2018,C-USA,Jay Hopson,500000
+Hawaii,2018,Hawaii2018,Mountain West,Nick Rolovich,486504
+Central Michigan,2018,Central Michigan2018,MAC,Tim Bonamego,655000
+Troy,2018,Troy2018,Sun Belt,Neal Brown,800000
+Army,2018,Army2018,Independent,Jeff Monken,982521
+Tulane,2018,Tulane2018,American,Willie Fritz,1629000
+Bowling Green,2018,Bowling Green2018,MAC,Mike Jinks,437228
+Buffalo,2018,Buffalo2018,MAC,Lance Leipold,455500
+FIU,2018,FIU2018,C-USA,Butch Davis,945000
+New Mexico,2018,New Mexico2018,Mountain West,Bob Davie,823740
+Miami (OH),2018,Miami (OH)2018,MAC,Chuck Martin,524826
+Rice,2018,Rice2018,C-USA,Mike Bloomgren,900000
+Florida Atlantic,2018,Florida Atlantic2018,C-USA,Lane Kiffin,1000000
+UNLV,2018,UNLV2018,Mountain West,Tony Sanchez,600000
+North Texas,2018,North Texas2018,C-USA,Seth Littrell,1425000
+UTSA,2018,UTSA2018,C-USA,Frank Wilson,1100000
+San Jose State,2018,San Jose State2018,Mountain West,Brent Brennan,590424
+Georgia Southern,2018,Georgia Southern2018,Sun Belt,Chad Lunsford,650000
+Kent State,2018,Kent State2018,MAC,Sean Lewis,440000
+Ball State,2018,Ball State2018,MAC,Mike Neu,435689
+UAB,2018,UAB2018,C-USA,Bill Clark,900000
+Eastern Michigan,2018,Eastern Michigan2018,MAC,Chris Creighton,460000
+Akron,2018,Akron2018,MAC,Terry Bowden,411000
+South Alabama,2018,South Alabama2018,Sun Belt,Steve Campbell,600000
+UTEP,2018,UTEP2018,C-USA,Dana Dimel,700000
+Old Dominion,2018,Old Dominion2018,C-USA,Bobby Wilder,654667
+Louisiana-Monroe,2018,Louisiana-Monroe2018,Sun Belt,Matt Viator,400045
+Texas State,2018,Texas State2018,Sun Belt,Everett Withers,710248
+Georgia State,2018,Georgia State2018,Sun Belt,Shawn Elliott,515000
+New Mexico State,2018,New Mexico State2018,Independent,Doug Martin,419640
+UMass,2018,UMass2018,Independent,Mark Whipple,500000
+Liberty,2018,Liberty2018,Independent,Hugh Freeze,947281
+Charlotte,2018,Charlotte2018,C-USA,Bran Lambert,625000
+Coastal Carolina,2018,Coastal Carolina2018,Sun Belt,Jamey Chadwell,400000
+Alabama,2017,Alabama2017,SEC,Nick Saban,11125000
+Michigan,2017,Michigan2017,Big Ten,Jim Harbaugh,7000000
+Ohio State,2017,Ohio State2017,Big Ten,Urban Meyer,5700000
+Georgia,2017,Georgia2017,SEC,Kirby Smart,3750000
+Notre Dame,2017,Notre Dame2017,Independent,Brian Kelly,1645847
+Oklahoma,2017,Oklahoma2017,Big 12,Lincoln Riley,2600000
+LSU,2017,LSU2017,SEC,Ed Orgeron,3500000
+Texas,2017,Texas2017,Big 12,Tom Herman,5250000
+Penn State,2017,Penn State2017,Big Ten,James Franklin,4600000
+Tennessee,2017,Tennessee2017,SEC,Butch Jones,4110000
+Clemson,2017,Clemson2017,ACC,Dabo Swinney,7500000
+Auburn,2017,Auburn2017,SEC,Gus Malzahn,4725000
+Florida,2017,Florida2017,SEC,Jim McElwain,4218200
+Michigan State,2017,Michigan State2017,Big Ten,Mark Dantonio,4114480
+USC,2017,USC2017,Pac-12,Clay Helton,3200000
+Iowa,2017,Iowa2017,Big Ten,Kirk Ferentz,4600000
+Nebraska,2017,Nebraska2017,Big Ten,Mike Riley,2900000
+Texas A&M,2017,Texas A&M2017,SEC,Kevin Sumlin,5000000
+Florida State,2017,Florida State2017,ACC,Jimbo Fisher,5550000
+Wisconsin,2017,Wisconsin2017,Big Ten,Paul Chryst,2800000
+Washington,2017,Washington2017,Pac-12,Chris Peterson,4125000
+Minnesota,2017,Minnesota2017,Big Ten,PJ Fleck,3500000
+Oklahoma State,2017,Oklahoma State2017,Big 12,Mike Gundy,4200000
+Oregon,2017,Oregon2017,Pac-12,Willie Taggart,2900000
+Arkansas,2017,Arkansas2017,SEC,Bret Bielema,3700000
+TCU,2017,TCU2017,Big 12,Gary Patterson,5104077
+Stanford,2017,Stanford2017,Pac-12,David Shaw,5680441
+Miami (FL),2017,Miami (FL)2017,ACC,Mark Richt,4058061
+South Carolina,2017,South Carolina2017,SEC,Will Muschamp,3100000
+Baylor,2017,Baylor2017,Big 12,Matt Rhule,1040000
+Texas Tech,2017,Texas Tech2017,Big 12,Kliff Kingsbury,3500000
+Virginia Tech,2017,Virginia Tech2017,ACC,Justin Fuente,3250000
+Ole Miss,2017,Ole Miss2017,SEC,Matt Luke,1160000
+Kansas State,2017,Kansas State2017,Big 12,Bill Snyder,3150000
+Pittsburgh,2017,Pittsburgh2017,ACC,Pat Narduzzi,1827735
+Mississippi State,2017,Mississippi State2017,SEC,Dan Mullen,4500000
+Northwestern,2017,Northwestern2017,Big Ten,Pat Fitzgerald,4100000
+Illinois,2017,Illinois2017,Big Ten,Lovie Smith,3000000
+West Virginia,2017,West Virginia2017,Big 12,Dana Holgorsen,3500000
+Utah,2017,Utah2017,Pac-12,Kyle Whittingham,3400000
+UCLA,2017,UCLA2017,Pac-12,Jim Mora,3550000
+Indiana,2017,Indiana2017,Big Ten,Tom Allen,1820000
+Iowa State,2017,Iowa State2017,Big 12,Matt Campbell,1035000
+California,2017,California2017,Pac-12,Justin Wilcox,1600000
+Kentucky,2017,Kentucky2017,SEC,Mark Stoops,3500000
+Louisville,2017,Louisville2017,ACC,Bobby Petrino,3925000
+Missouri,2017,Missouri2017,SEC,Barry Odom,2350000
+Georgia Tech,2017,Georgia Tech2017,ACC,Paul Johnson,2970891
+Arizona State,2017,Arizona State2017,Pac-12,Todd Graham,3200000
+NC State,2017,NC State2017,ACC,Dave Doeren,2200000
+North Carolina,2017,North Carolina2017,ACC,Larry Fedora,2290000
+Arizona,2017,Arizona2017,Pac-12,Rich Rodriguez,2875000
+Purdue,2017,Purdue2017,Big Ten,Jeff Brohm,3333333
+Duke,2017,Duke2017,ACC,David Cutcliffe,2600000
+Vanderbilt,2017,Vanderbilt2017,SEC,Derek Mason,2721834
+Washington State,2017,Washington State2017,Pac-12,Mike Leach,2950000
+Syracuse,2017,Syracuse2017,ACC,Dino Babers,2200000
+Colorado,2017,Colorado2017,Pac-12,Mike MacIntyre,2007550
+Kansas,2017,Kansas2017,Big 12,David Beaty,1600000
+Boise State,2017,Boise State2017,Mountain West,Bryan Harsin,1350000
+Boston College,2017,Boston College2017,ACC,Steve Addazio,2514859
+Virginia,2017,Virginia2017,ACC,Bronco Mendenhall,3400000
+Maryland,2017,Maryland2017,Big Ten,D.J. Durkin,2450000
+UCF,2017,UCF2017,American,Scott Frost,2000000
+Brigham Young,2017,Brigham Young2017,Independent,Kalani Sitake,1500000
+Wake Forest,2017,Wake Forest2017,ACC,Dave Clawson,1827370
+Oregon State,2017,Oregon State2017,Pac-12,Gary Andersen,2650000
+Memphis,2017,Memphis2017,American,Mike Norvell,1860000
+Houston,2017,Houston2017,American,Major Applewhite,1500000
+Cincinnati,2017,Cincinnati2017,American,Luke Fickell,1900000
+Rutgers,2017,Rutgers2017,Big Ten,Chris Ash,2100000
+Temple,2017,Temple2017,American,Geoff Collins,2146640
+South Florida,2017,South Florida2017,American,Charlie Strong,1000000
+SMU,2017,SMU2017,American,Chad Morris,2095793
+San Diego State,2017,San Diego State2017,Mountain West,Rocky Long,826304
+Toledo,2017,Toledo2017,MAC,Jason Candle,675000
+Northern Illinois,2017,Northern Illinois2017,MAC,Rod Carey,615000
+Ohio,2017,Ohio2017,MAC,Frank Solich,445000
+Tulsa,2017,Tulsa2017,American,Philip Montgomery,1400000
+Navy,2017,Navy2017,American,Ken Niumatalolo,2000000
+UConn,2017,UConn2017,American,Randy Edsall,1000000
+Fresno State,2017,Fresno State2017,Mountain West,Jeff Tedford,1550000
+Utah State,2017,Utah State2017,Mountain West,Matt Wells,850000
+Western Michigan,2017,Western Michigan2017,MAC,Tim Lester,800000
+Marshall,2017,Marshall2017,C-USA,Doc Holliday,755000
+Colorado State,2017,Colorado State2017,Mountain West,Mike Bobo,1550000
+East Carolina,2017,East Carolina2017,American,Scottie Montgomery,1050000
+Western Kentucky,2017,Western Kentucky2017,C-USA,Mike Sanford Jr,800000
+Arkansas State,2017,Arkansas State2017,Sun Belt,Blake Anderson,750000
+Wyoming,2017,Wyoming2017,Mountain West,Craig Bohl,1400000
+Louisiana Tech,2017,Louisiana Tech2017,C-USA,Skip Holtz,700000
+Louisiana,2017,Louisiana2017,Sun Belt,Mark Hudspeth,1100000
+Appalachian State,2017,Appalachian State2017,Sun Belt,Scott Satterfield,612500
+Air Force,2017,Air Force2017,Mountain West,Troy Calhoun,850000
+Middle Tennessee,2017,Middle Tennessee2017,C-USA,Rick Stockstill,801504
+Nevada,2017,Nevada2017,Mountain West,Jay Norvell,450000
+Southern Mississippi,2017,Southern Mississippi2017,C-USA,Jay Hopson,500000
+Hawaii,2017,Hawaii2017,Mountain West,Nick Rolovich,400008
+Central Michigan,2017,Central Michigan2017,MAC,John Bonamego,505000
+Troy,2017,Troy2017,Sun Belt,Neal Brown,800000
+Army,2017,Army2017,Independent,Jeff Monken,929521
+Tulane,2017,Tulane2017,American,Willie Fritz,1200000
+Bowling Green,2017,Bowling Green2017,MAC,Mike Jinks,420250
+Buffalo,2017,Buffalo2017,MAC,Lance Leipold,400000
+FIU,2017,FIU2017,C-USA,Butch Davis,900000
+New Mexico,2017,New Mexico2017,Mountain West,Bob Davie,822690
+Miami (OH),2017,Miami (OH)2017,MAC,Chuck Martin,472300
+Rice,2017,Rice2017,C-USA,David Bailiff,772883
+Florida Atlantic,2017,Florida Atlantic2017,C-USA,Lane Kiffin,950000
+UNLV,2017,UNLV2017,Mountain West,Tony Sanchez,600000
+North Texas,2017,North Texas2017,C-USA,Seth Littrell,1013800
+UTSA,2017,UTSA2017,C-USA,Frank Wilson,835000
+San Jose State,2017,San Jose State2017,Mountain West,Brent Brennan,575004
+Georgia Southern,2017,Georgia Southern2017,Sun Belt,Tyson Summers,530000
+Kent State,2017,Kent State2017,MAC,Paul Haynes,405912
+Ball State,2017,Ball State2017,MAC,Mike Neu,425000
+UAB,2017,UAB2017,C-USA,Bill Clark,630000
+Eastern Michigan,2017,Eastern Michigan2017,MAC,Chris Creighton,425000
+Akron,2017,Akron2017,MAC,Terry Bowden,406000
+South Alabama,2017,South Alabama2017,Sun Belt,Joey Jones,525000
+UTEP,2017,UTEP2017,C-USA,Sean Kugler,289541
+Old Dominion,2017,Old Dominion2017,C-USA,Bobby Wilder,650000
+Louisiana-Monroe,2017,Louisiana-Monroe2017,Sun Belt,Matt Viator,350000
+Texas State,2017,Texas State2017,Sun Belt,Everett Withers,675000
+Georgia State,2017,Georgia State2017,Sun Belt,Shawn Elliott,565000
+New Mexico State,2017,New Mexico State2017,Sun Belt,Doug Martin,364044
+UMass,2017,UMass2017,Independent,Mark Whipple,450000
+Liberty,2017,Liberty2017,DII,Turner Gill,947281
+Charlotte,2017,Charlotte2017,C-USA,Brad Lambert,597000
+Coastal Carolina,2017,Coastal Carolina2017,Sun Belt,Joe Moglia,175000
+Alabama,2016,Alabama2016,SEC,Nick Saban,6940000
+Michigan,2016,Michigan2016,Big Ten,Jim Harbaugh,9004000
+Ohio State,2016,Ohio State2016,Big Ten,Urban Meyer,6094800
+Georgia,2016,Georgia2016,SEC,Kirby Smart,3753600
+Notre Dame,2016,Notre Dame2016,Independent,Brian Kelly,2100000
+Oklahoma,2016,Oklahoma2016,Big 12,Bob Stoops,5550000
+LSU,2016,LSU2016,SEC,Les Miles,4385567
+Texas,2016,Texas2016,Big 12,Charlie Strong,5200000
+Penn State,2016,Penn State2016,Big Ten,James Franklin,4500000
+Tennessee,2016,Tennessee2016,SEC,Butch Jones,4110000
+Clemson,2016,Clemson2016,ACC,Dabo Swinney,4222700
+Auburn,2016,Auburn2016,SEC,Gus Malzahn,4729500
+Florida,2016,Florida2016,SEC,Jim McElwain,4268325
+Michigan State,2016,Michigan State2016,Big Ten,Mark Dantonio,4300000
+USC,2016,USC2016,Pac-12,Clay Helton,2600000
+Iowa,2016,Iowa2016,Big Ten,Kirk Ferentz,4500000
+Nebraska,2016,Nebraska2016,Big Ten,Mike Riley,2800000
+Texas A&M,2016,Texas A&M2016,SEC,Kevin Sumlin,5000000
+Florida State,2016,Florida State2016,ACC,Jimbo Fisher,5250000
+Wisconsin,2016,Wisconsin2016,Big Ten,Paul Chryst,2706200
+Washington,2016,Washington2016,Pac-12,Chris Petersen,3600000
+Minnesota,2016,Minnesota2016,Big Ten,Tracy Claeys,1400000
+Oklahoma State,2016,Oklahoma State2016,Big 12,Mike Gundy,3800000
+Oregon,2016,Oregon2016,Pac-12,Mark Helfrich,3300000
+Arkansas,2016,Arkansas2016,SEC,Bret Bielema,4145000
+TCU,2016,TCU2016,Big 12,Gary Patterson,4000000
+Stanford,2016,Stanford2016,Pac-12,David Shaw,4067219
+Miami (FL),2016,Miami (FL)2016,ACC,Mark Richt,4058061
+South Carolina,2016,South Carolina2016,SEC,Will Muschamp,3002500
+Baylor,2016,Baylor2016,Big 12,Jim Grobe,1250000
+Texas Tech,2016,Texas Tech2016,Big 12,Kliff Kingsbury,3300000
+Virginia Tech,2016,Virginia Tech2016,ACC,Justin Fuente,3200000
+Ole Miss,2016,Ole Miss2016,SEC,Hugh Freeze,4703500
+Kansas State,2016,Kansas State2016,Big 12,Bill Snyder,3100000
+Pittsburgh,2016,Pittsburgh2016,ACC,Pat Narduzzi,1700000
+Mississippi State,2016,Mississippi State2016,SEC,Dan Mullen,4200000
+Northwestern,2016,Northwestern2016,Big Ten,Pat Fitzgerald,3350638
+Illinois,2016,Illinois2016,Big Ten,Lovie Smith,1809179
+West Virginia,2016,West Virginia2016,Big 12,Dana Holgorsen,2900000
+Utah,2016,Utah2016,Pac-12,Kyle Whittingham,3650000
+UCLA,2016,UCLA2016,Pac-12,Jim Mora,3450000
+Indiana,2016,Indiana2016,Big Ten,Kevin Wilson,2320000
+Iowa State,2016,Iowa State2016,Big 12,Matt Campbell,2100000
+California,2016,California2016,Pac-12,Sonny Dykes,2900000
+Kentucky,2016,Kentucky2016,SEC,Mark Stoops,3513600
+Louisville,2016,Louisville2016,ACC,Bobby Petrino,3910434
+Missouri,2016,Missouri2016,SEC,Barry Odom,2350000
+Georgia Tech,2016,Georgia Tech2016,ACC,Paul Johnson,2886361
+Arizona State,2016,Arizona State2016,Pac-12,Todd Graham,3100000
+NC State,2016,NC State2016,ACC,Dave Doeren,2200000
+North Carolina,2016,North Carolina2016,ACC,Larry Fedora,1986265
+Arizona,2016,Arizona2016,Pac-12,Rich Rodriguez,2500000
+Purdue,2016,Purdue2016,Big Ten,Darrell Hazell,2190000
+Duke,2016,Duke2016,ACC,David Cutcliffe,2320773
+Vanderbilt,2016,Vanderbilt2016,SEC,Derek Mason,2556877
+Washington State,2016,Washington State2016,Pac-12,Mike Leach,2950000
+Syracuse,2016,Syracuse2016,ACC,Dino Babers,2400000
+Colorado,2016,Colorado2016,Pac-12,Mike MacIntyre,2011050
+Kansas,2016,Kansas2016,Big 12,David Beaty,801000
+Boise State,2016,Boise State2016,Mountain West,Bryan Harsin,1300004
+Boston College,2016,Boston College2016,ACC,Steve Addazio,2333628
+Virginia,2016,Virginia2016,ACC,Bronco Mendenhall,3275000
+Maryland,2016,Maryland2016,Big Ten,DJ Durkin,2412000
+UCF,2016,UCF2016,American,Scott Frost,2000000
+Brigham Young,2016,Brigham Young2016,Independent,Kalani Sitake,1500000
+Wake Forest,2016,Wake Forest2016,ACC,Dave Clawson,2113166
+Oregon State,2016,Oregon State2016,Pac-12,Gary Andersen,2550000
+Memphis,2016,Memphis2016,American,Mike Norvell,1250000
+Houston,2016,Houston2016,American,Tom Herman,3000000
+Cincinnati,2016,Cincinnati2016,American,Tommy Tuberville,2400000
+Rutgers,2016,Rutgers2016,Big Ten,Chris Ash,2000000
+Temple,2016,Temple2016,American,Matt Rhule,2500000
+South Florida,2016,South Florida2016,American,Willie Taggart,1600000
+SMU,2016,SMU2016,American,Chad Morris,2600000
+San Diego State,2016,San Diego State2016,Mountain West,Rocky Long,810632
+Toledo,2016,Toledo2016,MAC,Jason Candle,675000
+Northern Illinois,2016,Northern Illinois2016,MAC,Rod Carey,623000
+Ohio,2016,Ohio2016,MAC,Frank Solich,572715
+Tulsa,2016,Tulsa2016,American,Philip Montgomery,800000
+Navy,2016,Navy2016,American,Ken Niumatalolo,2250000
+UConn,2016,UConn2016,American,Bob Diaco,1700000
+Fresno State,2016,Fresno State2016,Mountain West,Tim DeRuyter,1548480
+Utah State,2016,Utah State2016,Mountain West,Matt Wells,800000
+Western Michigan,2016,Western Michigan2016,MAC,PJ Fleck,820360
+Marshall,2016,Marshall2016,C-USA,John Holliday,792568
+Colorado State,2016,Colorado State2016,Mountain West,Mike Bobo,1450000
+East Carolina,2016,East Carolina2016,American,Scottie Montgomery,1250000
+Western Kentucky,2016,Western Kentucky2016,C-USA,Jeff Brohm,808720
+Arkansas State,2016,Arkansas State2016,Sun Belt,Blake Anderson,700000
+Wyoming,2016,Wyoming2016,Mountain West,Craig Boh,909000
+Louisiana Tech,2016,Louisiana Tech2016,C-USA,Skip Holtz,500000
+Louisiana,2016,Louisiana2016,Sun Belt,Mark Hudspeth,1100000
+Appalachian State,2016,Appalachian State2016,Sun Belt,Scott Satterfield,525000
+Air Force,2016,Air Force2016,Mountain West,Troy Calhoun,885000
+Middle Tennessee,2016,Middle Tennessee2016,C-USA,Rick Stockstill,804004
+Nevada,2016,Nevada2016,Mountain West,Brian Polian,578000
+Southern Mississippi,2016,Southern Mississippi2016,C-USA,Jay Hopson,500000
+Hawaii,2016,Hawaii2016,Mountain West,Nick Rolovich,400008
+Central Michigan,2016,Central Michigan2016,MAC,John Bonamego,545640
+Troy,2016,Troy2016,Sun Belt,Neal Brown,660000
+Army,2016,Army2016,Independent,Jeff Monken,932521
+Tulane,2016,Tulane2016,American,Willie Fritz,1500000
+Bowling Green,2016,Bowling Green2016,MAC,Mike Jinks,410000
+Buffalo,2016,Buffalo2016,MAC,Lance Leipold,405500
+FIU,2016,FIU2016,C-USA,Butch Davis,900000
+New Mexico,2016,New Mexico2016,Mountain West,Bob Davie,823940
+Miami (OH),2016,Miami (OH)2016,MAC,Chuck Martin,472300
+Rice,2016,Rice2016,C-USA,David Bailiff,903556
+Florida Atlantic,2016,Florida Atlantic2016,C-USA,Lane Kiffin,950000
+UNLV,2016,UNLV2016,Mountain West,Tony Sanchez,510000
+North Texas,2016,North Texas2016,C-USA,Seth Littrell,815000
+UTSA,2016,UTSA2016,C-USA,Frank Wilson,835000
+San Jose State,2016,San Jose State2016,Mountain West,Ron Caragher,546745
+Georgia Southern,2016,Georgia Southern2016,Sun Belt,Tyson Summers,500000
+Kent State,2016,Kent State2016,MAC,Paul Haynes,405912
+Ball State,2016,Ball State2016,MAC,Mike Neu,425000
+Eastern Michigan,2016,Eastern Michigan2016,MAC,Chris Creighton,434840
+Akron,2016,Akron2016,MAC,Terry Bowden,411000
+South Alabama,2016,South Alabama2016,Sun Belt,Joey Jones,560000
+UTEP,2016,UTEP2016,C-USA,Sean Kugler,515332
+Old Dominion,2016,Old Dominion2016,C-USA,Bobby Wilder,650000
+Louisiana-Monroe,2016,Louisiana-Monroe2016,Sun Belt,Matt Viator,390000
+Texas State,2016,Texas State2016,Sun Belt,Everett Withers,650000
+Georgia State,2016,Georgia State2016,Sun Belt,Trent Miles,539405
+New Mexico State,2016,New Mexico State2016,Sun Belt,Doug Martin,376004
+UMass,2016,UMass2016,Independent,Mark Whipple,465660
+Liberty,2016,Liberty2016,DII,Turner Gill,947281
+Charlotte,2016,Charlotte2016,C-USA,Brad Lambert,600000
+Coastal Carolina,2016,Coastal Carolina2016,DII,Joe Moglia,300000
+Alabama,2015,Alabama2015,SEC,Nick Saban,7087481
+Michigan,2015,Michigan2015,Big Ten,Jim Harbaugh,7004000
+Ohio State,2015,Ohio State2015,Big Ten,Urban Meyer,5860000
+Georgia,2015,Georgia2015,SEC,Mark Richt,4120000
+Notre Dame,2015,Notre Dame2015,Independent,Brian Kelly,1620000
+Oklahoma,2015,Oklahoma2015,Big 12,Bob Stoops,5400000
+LSU,2015,LSU2015,SEC,Les Miles,4385567
+Texas,2015,Texas2015,Big 12,Charlie Strong,5100270
+Penn State,2015,Penn State2015,Big Ten,James Franklin,4400000
+Tennessee,2015,Tennessee2015,SEC,Butch Jones,3630000
+Clemson,2015,Clemson2015,ACC,Dabo Swinney,3310000
+Auburn,2015,Auburn2015,SEC,Gus Malzahn,4100000
+Florida,2015,Florida2015,SEC,Jim McElwain,3980000
+Michigan State,2015,Michigan State2015,Big Ten,Mark Dantonio,3670000
+USC,2015,USC2015,Pac-12,Steve Sarkisian,2990634
+Iowa,2015,Iowa2015,Big Ten,Kirk Ferentz,4080000
+Nebraska,2015,Nebraska2015,Big Ten,Mike Riley,2700000
+Texas A&M,2015,Texas A&M2015,SEC,Kevin Sumlin,5000000
+Florida State,2015,Florida State2015,ACC,Jimbo Fisher,5150000
+Wisconsin,2015,Wisconsin2015,Big Ten,Paul Chryst,2300000
+Washington,2015,Washington2015,Pac-12,Chris Petersen,3400000
+Minnesota,2015,Minnesota2015,Big Ten,Jerry Kill,2500000
+Oklahoma State,2015,Oklahoma State2015,Big 12,Mike Gundy,3650000
+Oregon,2015,Oregon2015,Pac-12,Mark Helfrich,3150000
+Arkansas,2015,Arkansas2015,SEC,Bret Bielema,3960000
+TCU,2015,TCU2015,Big 12,Gary Patterson,3940000
+Stanford,2015,Stanford2015,Pac-12,David Shaw,2224435
+Miami (FL),2015,Miami (FL)2015,ACC,Al Golden,2539315
+South Carolina,2015,South Carolina2015,SEC,Steve Spurrier,4000000
+Baylor,2015,Baylor2015,Big 12,Art Briles,4240000
+Texas Tech,2015,Texas Tech2015,Big 12,Kliff Kingsbury,3100000
+Virginia Tech,2015,Virginia Tech2015,ACC,Frank Beamer,2775000
+Ole Miss,2015,Ole Miss2015,SEC,Hugh Freeze,4310000
+Kansas State,2015,Kansas State2015,Big 12,Bill Snyder,1710000
+Pittsburgh,2015,Pittsburgh2015,ACC,Pat Narduzzi,1827735
+Mississippi State,2015,Mississippi State2015,SEC,Dan Mullen,4280000
+Northwestern,2015,Northwestern2015,Big Ten,Pat Fitzgerald,2490000
+Illinois,2015,Illinois2015,Big Ten,Bill Cubit,915000
+West Virginia,2015,West Virginia2015,Big 12,Dana Holgorsen,2880000
+Utah,2015,Utah2015,Pac-12,Kyle Whittingham,2600000
+UCLA,2015,UCLA2015,Pac-12,Jim Mora,3350000
+Indiana,2015,Indiana2015,Big Ten,Kevin Wilson,1312000
+Iowa State,2015,Iowa State2015,Big 12,Paul Rhoads,1900000
+California,2015,California2015,Pac-12,Sonny Dykes,2008000
+Kentucky,2015,Kentucky2015,SEC,Mark Stoops,3000000
+Louisville,2015,Louisville2015,ACC,Bobby Petrino,3000000
+Missouri,2015,Missouri2015,SEC,Gary Pinkel,4020000
+Georgia Tech,2015,Georgia Tech2015,ACC,Paul Johnson,2800000
+Arizona State,2015,Arizona State2015,Pac-12,Todd Graham,3002960
+NC State,2015,NC State2015,ACC,Dave Doeren,2200000
+North Carolina,2015,North Carolina2015,ACC,Larry Fedora,1931000
+Arizona,2015,Arizona2015,Pac-12,Rich Rodriguez,3238844
+Purdue,2015,Purdue2015,Big Ten,Darrell Hazell,2140000
+Duke,2015,Duke2015,ACC,David Cutcliffe,2049000
+Vanderbilt,2015,Vanderbilt2015,SEC,Derek Mason,2100000
+Washington State,2015,Washington State2015,Pac-12,Mike Leach,2750000
+Syracuse,2015,Syracuse2015,ACC,Scott Shafer,1303000
+Colorado,2015,Colorado2015,Pac-12,Mike MacIntyle,2010353
+Kansas,2015,Kansas2015,Big 12,David Beaty,800000
+Boise State,2015,Boise State2015,Mountain West,Bryan Harsin,1100004
+Boston College,2015,Boston College2015,ACC,Steve Addazio,2586000
+Virginia,2015,Virginia2015,ACC,Mike London,3198000
+Maryland,2015,Maryland2015,Big Ten,Randy Edsall,2110000
+UCF,2015,UCF2015,American,George O'Leary,1890000
+Brigham Young,2015,Brigham Young2015,Independent,Bronco Mendenhall,1500000
+Wake Forest,2015,Wake Forest2015,ACC,Dave Clawson,2250000
+Oregon State,2015,Oregon State2015,Pac-12,Gary Andersen,2450000
+Memphis,2015,Memphis2015,American,Justin Fuente,1400000
+Houston,2015,Houston2015,American,Tom Herman,1450000
+Cincinnati,2015,Cincinnati2015,American,Tommy Tuberville,2200000
+Rutgers,2015,Rutgers2015,Big Ten,Kyle Flood,1250000
+Temple,2015,Temple2015,American,Matt Rhule,648633
+South Florida,2015,South Florida2015,American,Willie Taggart,1200000
+SMU,2015,SMU2015,American,Chad Morris,2000000
+San Diego State,2015,San Diego State2015,Mountain West,Rocky Long,808300
+Toledo,2015,Toledo2015,MAC,Matt Campbell,495000
+Northern Illinois,2015,Northern Illinois2015,MAC,Rod Carey,400000
+Ohio,2015,Ohio2015,MAC,Frank Solich,562760
+Tulsa,2015,Tulsa2015,American,Philip Montgomery,800000
+Navy,2015,Navy2015,American,Ken Niumatalolo,1637803
+UConn,2015,UConn2015,American,Bob Diaco,1600000
+Fresno State,2015,Fresno State2015,Mountain West,Tim DeRuyter,1492745
+Utah State,2015,Utah State2015,Mountain West,Matt Wells,752900
+Western Michigan,2015,Western Michigan2015,MAC,PJ Fleck,800000
+Marshall,2015,Marshall2015,C-USA,Doc Holliday,755500
+Colorado State,2015,Colorado State2015,Mountain West,Mike Bobo,1350000
+East Carolina,2015,East Carolina2015,American,Ruffin McNeil,1471100
+Western Kentucky,2015,Western Kentucky2015,C-USA,Jeff Brohm,600000
+Arkansas State,2015,Arkansas State2015,Sun Belt,Blake Anderson,700000
+Wyoming,2015,Wyoming2015,Mountain West,Craig Bohl,882000
+Louisiana Tech,2015,Louisiana Tech2015,C-USA,Skip Holtz,540000
+Louisiana,2015,Louisiana2015,Sun Belt,Mark Hudspeth,1000050
+Appalachian State,2015,Appalachian State2015,Sun Belt,Scott Satterfield,375000
+Air Force,2015,Air Force2015,Mountain West,Troy Calhoun,919000
+Middle Tennessee,2015,Middle Tennessee2015,C-USA,Rick Stockstill,812004
+Nevada,2015,Nevada2015,Mountain West,Brian Polian,578000
+Southern Mississippi,2015,Southern Mississippi2015,C-USA,Jay Hopson,500000
+Hawaii,2015,Hawaii2015,Mountain West,Norm Chow,550000
+Central Michigan,2015,Central Michigan2015,MAC,John Bonamego,533500
+Troy,2015,Troy2015,Sun Belt,Neal Brown,660000
+Army,2015,Army2015,Independent,Jeff Monken,883000
+Tulane,2015,Tulane2015,American,Willie Fritz,500000
+Bowling Green,2015,Bowling Green2015,MAC,Dino Babers,413000
+Buffalo,2015,Buffalo2015,MAC,Lance Leipold,400000
+FIU,2015,FIU2015,C-USA,Ron Turner,604190
+New Mexico,2015,New Mexico2015,Mountain West,Bob Davie,773940
+Miami (OH),2015,Miami (OH)2015,MAC,Chuck Martin,450000
+Rice,2015,Rice2015,C-USA,David Bailiff,780243
+Florida Atlantic,2015,Florida Atlantic2015,C-USA,Charlie Partridge,525000
+UNLV,2015,UNLV2015,Mountain West,Tony Sanchez,560000
+North Texas,2015,North Texas2015,C-USA,Dan McCarney,710000
+UTSA,2015,UTSA2015,C-USA,Larry Coker,427150
+San Jose State,2015,San Jose State2015,Mountain West,Ron Caragher,540775
+Georgia Southern,2015,Georgia Southern2015,Sun Belt,Curtis Johnson,1000000
+Kent State,2015,Kent State2015,MAC,Paul Haynes,390150
+Ball State,2015,Ball State2015,MAC,Pete Lembo,514250
+Eastern Michigan,2015,Eastern Michigan2015,MAC,Chris Creighton,425000
+Akron,2015,Akron2015,MAC,Terry Bowden,406000
+South Alabama,2015,South Alabama2015,Sun Belt,Joey Jones,525000
+UTEP,2015,UTEP2015,C-USA,Sean Kugler,514041
+Old Dominion,2015,Old Dominion2015,C-USA,Bobby Wilder,550000
+Louisiana-Monroe,2015,Louisiana-Monroe2015,Sun Belt,Todd Berry,360000
+Texas State,2015,Texas State2015,Sun Belt,Dennis Franchione,425000
+Georgia State,2015,Georgia State2015,Sun Belt,Trent Miles,523500
+New Mexico State,2015,New Mexico State2015,Sun Belt,Doug Martin,377044
+UMass,2015,UMass2015,MAC,Mark Whipple ,450000
+Liberty,2015,Liberty2015,DII,Turner Gill,750116
+Charlotte,2015,Charlotte2015,C-USA,Brad Lambert,250000
+Coastal Carolina,2015,Coastal Carolina2015,DII,Joe Moglia,175000
+Alabama,2014,Alabama2014,SEC,Nick Saban,7160187
+Michigan,2014,Michigan2014,Big Ten,Brady Hoke,2856000
+Ohio State,2014,Ohio State2014,Big Ten,Urban Meyer,4536640
+Georgia,2014,Georgia2014,SEC,Mark Richt,3314000
+Notre Dame,2014,Notre Dame2014,Independent,Brian Kelly,1460000
+Oklahoma,2014,Oklahoma2014,Big 12,Bob Stoops,5058333
+LSU,2014,LSU2014,SEC,Les Miles,4369582
+Texas,2014,Texas2014,Big 12,Charlie Strong,5000270
+Penn State,2014,Penn State2014,Big Ten,James Franklin,4300000
+Tennessee,2014,Tennessee2014,SEC,Butch Jones,3000000
+Clemson,2014,Clemson2014,ACC,Dabo Swinney,3175100
+Auburn,2014,Auburn2014,SEC,Gus Malzahn,3854500
+Florida,2014,Florida2014,SEC,Will Muschamp,3000000
+Michigan State,2014,Michigan State2014,Big Ten,Mark Dantonio,5636145
+USC,2014,USC2014,Pac-12,Steve Sarkisian,3700000
+Iowa,2014,Iowa2014,Big Ten,Kirk Ferentz,4075000
+Nebraska,2014,Nebraska2014,Big Ten,Bo Pelini,3077646
+Texas A&M,2014,Texas A&M2014,SEC,Kevin Sumlin,5006000
+Florida State,2014,Florida State2014,ACC,Jimbo Fisher,3591667
+Wisconsin,2014,Wisconsin2014,Big Ten,Gary Andersen,2285000
+Washington,2014,Washington2014,Pac-12,Chris Petersen,3681720
+Minnesota,2014,Minnesota2014,Big Ten,Jerry Kill,2100000
+Oklahoma State,2014,Oklahoma State2014,Big 12,Mike Gundy,3500000
+Oregon,2014,Oregon2014,Pac-12,Mark Helfrich,2000000
+Arkansas,2014,Arkansas2014,SEC,Bret Bielema,3214000
+TCU,2014,TCU2014,Big 12,Gary Patterson,4008150
+Stanford,2014,Stanford2014,Pac-12,David Shaw,2012666
+Miami (FL),2014,Miami (FL)2014,ACC,Al Golden,2250943
+South Carolina,2014,South Carolina2014,SEC,Steve Spurrier,4016900
+Baylor,2014,Baylor2014,Big 12,Art Briles,3135146
+Texas Tech,2014,Texas Tech2014,Big 12,Kliff Kingsbury,2605300
+Virginia Tech,2014,Virginia Tech2014,ACC,Frank Beamer,2660913
+Ole Miss,2014,Ole Miss2014,SEC,Hugh Freeze,3000000
+Kansas State,2014,Kansas State2014,Big 12,Bill Snyder,2900000
+Pittsburgh,2014,Pittsburgh2014,ACC,Paul Chryst,1578757
+Mississippi State,2014,Mississippi State2014,SEC,Dan Mullen,2650000
+Northwestern,2014,Northwestern2014,Big Ten,Pat Fitzgerald,2480967
+Illinois,2014,Illinois2014,Big Ten,Tim Beckman,1950250
+West Virginia,2014,West Virginia2014,Big 12,Dana Holgorsen,3080000
+Utah,2014,Utah2014,Pac-12,Kyle Whittingham,2200000
+UCLA,2014,UCLA2014,Pac-12,Jim Mora,3250000
+Indiana,2014,Indiana2014,Big Ten,Kevin Wilson,1301644
+Iowa State,2014,Iowa State2014,Big 12,Paul Rhoads,1808025
+California,2014,California2014,Pac-12,Sonny Dykes,1808000
+Kentucky,2014,Kentucky2014,SEC,Mark Stoops,2200000
+Louisville,2014,Louisville2014,ACC,Bobby Petrino,3000000
+Missouri,2014,Missouri2014,SEC,Gary Pinkel,3400000
+Georgia Tech,2014,Georgia Tech2014,ACC,Paul Johnson,2590500
+Arizona State,2014,Arizona State2014,Pac-12,Todd Graham,2702960
+NC State,2014,NC State2014,ACC,Dave Doeren,1800000
+North Carolina,2014,North Carolina2014,ACC,Larry Fedora,1830000
+Arizona,2014,Arizona2014,Pac-12,Rich Rodriguez,3298500
+Purdue,2014,Purdue2014,Big Ten,Darrell Hazell,2090000
+Duke,2014,Duke2014,ACC,David Cutcliffe,1840341
+Vanderbilt,2014,Vanderbilt2014,SEC,Derek Mason,2556877
+Washington State,2014,Washington State2014,Pac-12,Mike Leach,2750000
+Syracuse,2014,Syracuse2014,ACC,Scott Shafer,1500000
+Colorado,2014,Colorado2014,Pac-12,Mike MacIntyre,2010150
+Kansas,2014,Kansas2014,Big 12,Charlie Weis,2500000
+Boise State,2014,Boise State2014,Mountain West,Bryan Harsin,1000000
+Boston College,2014,Boston College2014,ACC,Steve Addazio,2333628
+Virginia,2014,Virginia2014,ACC,Mike London,2303599
+Maryland,2014,Maryland2014,Big Ten,Randy Edsall,2033880
+UCF,2014,UCF2014,American,George O'Leary,1800000
+Brigham Young,2014,Brigham Young2014,Independent,Bronco Mendenhall,1500000
+Wake Forest,2014,Wake Forest2014,ACC,Dave Clawson,2115000
+Oregon State,2014,Oregon State2014,Pac-12,Mike Riley,1510008
+Memphis,2014,Memphis2014,American,Justin Fuente,1000000
+Houston,2014,Houston2014,American,Tony Levine,925000
+Cincinnati,2014,Cincinnati2014,American,Tommy Tuberville,2200000
+Rutgers,2014,Rutgers2014,Big Ten,Kyle Flood,987000
+Temple,2014,Temple2014,American,Matt Rhule,648633
+South Florida,2014,South Florida2014,American,Willie Taggart,1150000
+SMU,2014,SMU2014,American,June Jones,2020000
+San Diego State,2014,San Diego State2014,Mountain West,Rocky Long,800000
+Toledo,2014,Toledo2014,MAC,Matt Campbell,794786
+Northern Illinois,2014,Northern Illinois2014,MAC,Rod Carey,400000
+Ohio,2014,Ohio2014,MAC,Frank Solich,594193
+Tulsa,2014,Tulsa2014,American,Bill Blankenship,759436
+Navy,2014,Navy2014,Independent,Ken Niumatalolo,1574810
+UConn,2014,UConn2014,American,Bob Diaco,1187900
+Fresno State,2014,Fresno State2014,Mountain West,Tim DeRuyter,1400000
+Utah State,2014,Utah State2014,Mountain West,Matt Wells,575000
+Western Michigan,2014,Western Michigan2014,MAC,PJ Fleck,392500
+Marshall,2014,Marshall2014,C-USA,Doc Holliday,607070
+Colorado State,2014,Colorado State2014,Mountain West,Jim McElwain,1500000
+East Carolina,2014,East Carolina2014,American,Ruffin McNeill,1250000
+Western Kentucky,2014,Western Kentucky2014,C-USA,Jeff Brohm,600000
+Arkansas State,2014,Arkansas State2014,Sun Belt,Blake Anderson,700000
+Wyoming,2014,Wyoming2014,Mountain West,Craig Bohl,832000
+Louisiana Tech,2014,Louisiana Tech2014,C-USA,Skip Holtz,510000
+Louisiana,2014,Louisiana2014,Sun Belt,Mark Hudspeth,950000
+Appalachian State,2014,Appalachian State2014,Sun Belt,Scott Satterfield,225000
+Air Force,2014,Air Force2014,Mountain West,Troy Calhoun,866250
+Middle Tennessee,2014,Middle Tennessee2014,C-USA,Rick Stockstill,801504
+Nevada,2014,Nevada2014,Mountain West,Brian Polian,575000
+Southern Mississippi,2014,Southern Mississippi2014,C-USA,Todd Monken,700000
+Hawaii,2014,Hawaii2014,Mountain West,Norm Chow,550000
+Central Michigan,2014,Central Michigan2014,MAC,Dan Enos,360000
+Troy,2014,Troy2014,Sun Belt,Larry Blakeney,480000
+Army,2014,Army2014,Independent,Jeff Monken,834667
+Tulane,2014,Tulane2014,American,Curtis Johnson,800000
+Bowling Green,2014,Bowling Green2014,MAC,Dino Babers,647252
+Buffalo,2014,Buffalo2014,MAC,Jeff Quinn,250000
+FIU,2014,FIU2014,C-USA,Ron Turner,551000
+New Mexico,2014,New Mexico2014,Mountain West,Bob Davie,772690
+Miami (OH),2014,Miami (OH)2014,MAC,Chuck Martin,667239
+Rice,2014,Rice2014,C-USA,David Baliff,780243
+Florida Atlantic,2014,Florida Atlantic2014,C-USA,Charlie Partridge,500000
+UNLV,2014,UNLV2014,Mountain West,Bobby Hauck,850000
+North Texas,2014,North Texas2014,C-USA,Dan McCarney,710000
+UTSA,2014,UTSA2014,C-USA,Larry Coker,400000
+San Jose State,2014,San Jose State2014,Mountain West,Ron Caragher,525000
+Georgia Southern,2014,Georgia Southern2014,Sun Belt,Willie Fritz,300000
+Kent State,2014,Kent State2014,MAC,Paul Haynes,549627
+Ball State,2014,Ball State2014,MAC,Pete Lembo,392000
+UAB,2014,UAB2014,C-USA,Bill Clark,500000
+Eastern Michigan,2014,Eastern Michigan2014,MAC,Chris Creighton,425000
+Akron,2014,Akron2014,MAC,Terry Bowden,578364
+South Alabama,2014,South Alabama2014,Sun Belt,Joey Jones,435000
+UTEP,2014,UTEP2014,C-USA,Sean Kugler,508364
+Old Dominion,2014,Old Dominion2014,C-USA,Bobby Wilder,475000
+Louisiana-Monroe,2014,Louisiana-Monroe2014,Sun Belt,Todd Berry,306000
+Texas State,2014,Texas State2014,Sun Belt,Dennis Franchione,401200
+Georgia State,2014,Georgia State2014,Sun Belt,Trent Miles,450000
+New Mexico State,2014,New Mexico State2014,Sun Belt,Doug Martin,363000
+UMass,2014,UMass2014,MAC,Mark Whipple,450000
+Liberty,2014,Liberty2014,DII,Turner Gill,750116
+Charlotte,2014,Charlotte2014,DII,Brad Lambert,250000
+Coastal Carolina,2014,Coastal Carolina2014,DII,Joe Moglia,175000
